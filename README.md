@@ -6,6 +6,7 @@ If you see this then this is not the right thing for you this is only available 
 
 - There are two .config folders please make it separate in order to work `install.sh` perfectly.
 - I just made this copy for myself apply it with your taste.
+- For now, I don't have Mute Animation see this [commit](https://github.com/end-4/dots-hyprland/commit/d8df1eef05fdb6954c4a8580d752e3711ca1df95)
 
 ## THIS AIN'T UPSTREAM THOO
 ![image](https://github.com/lash0000/end-4-dot/assets/38674978/9093cee5-1b77-489d-b205-21cbfb3990f9)
