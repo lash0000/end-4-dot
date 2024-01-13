@@ -1,5 +1,7 @@
 My favorite hyprland dotfiles and my favorite commit changes so far like it works at all this is AWESOME.
 
+If you see this then this is not the right thing for you this is only available to EndeavorOS and Arch based distros.
+
 ## Note to reader:
 
 There are two .config folders please make it separate in order to work `install.sh` perfectly.
