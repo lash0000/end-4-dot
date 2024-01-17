@@ -12,7 +12,7 @@ If you see this then this is not the right thing for you this is only available 
 ![image](https://github.com/lash0000/end-4-dot/assets/38674978/9093cee5-1b77-489d-b205-21cbfb3990f9)
 Please refer to this: https://github.com/end-4/dots-hyprland/tree/illogical-impulse
 
-## Looking for initial setup?
+## Looking for initial setup? (see what it looks)
 Check this out [twtbump](https://twitter.com/lash_ux/status/1743965217602908267)
 
 ## Acknowledgement
