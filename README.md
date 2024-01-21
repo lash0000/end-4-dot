@@ -8,7 +8,7 @@ If you see this then this is not the right thing for you this is only available 
 - I just made this copy for myself apply it with your taste.
 
 For now, I don't have the following:
-| Features  | Initial Commit | Comments |
+| Best Features  | Initial Commit | Comments |
 | ------------- | ------------- | ------------- |
 | Mute Animation  | [Jan 14,2024](https://github.com/end-4/dots-hyprland/commit/d8df1eef05fdb6954c4a8580d752e3711ca1df95) | nah |
 | Multiple Monitors  | [Jan 18,2024](https://github.com/end-4/dots-hyprland/commit/3f0e064009e0b6943c3effb57ea58b235504389a) | yay |
