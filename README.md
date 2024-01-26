@@ -13,6 +13,7 @@ For now, I don't have the following:
 | Mute Animation  | [Jan 14,2024](https://github.com/end-4/dots-hyprland/commit/d8df1eef05fdb6954c4a8580d752e3711ca1df95) | nah |
 | Multiple Monitors  | [Jan 18,2024](https://github.com/end-4/dots-hyprland/commit/3f0e064009e0b6943c3effb57ea58b235504389a) | yay |
 | Wallpapers for Multiple | [Jan 20, 2024](https://github.com/end-4/dots-hyprland/commit/8b28b2a41ee6603379343f701b434a74bd909df7) | yay |
+| Google Gemini? | [Jan 24,2024](https://github.com/end-4/dots-hyprland/commit/227812d82db6bbc1c4ede790d6192b496c8cb482) | fuck |
 
 ## THIS AIN'T UPSTREAM THOO
 ![image](https://github.com/lash0000/end-4-dot/assets/38674978/9093cee5-1b77-489d-b205-21cbfb3990f9)
