@@ -15,6 +15,7 @@ For now, I don't have the following:
 | Wallpapers for Multiple | [Jan 20, 2024](https://github.com/end-4/dots-hyprland/commit/8b28b2a41ee6603379343f701b434a74bd909df7) | yay |
 | Google Gemini? | [Jan 24,2024](https://github.com/end-4/dots-hyprland/commit/227812d82db6bbc1c4ede790d6192b496c8cb482) | fuck |
 | Workspace 2.0 | [Jan 28, 2024](https://github.com/end-4/dots-hyprland/pull/209) | yay |
+| Notification 2.0 | [Feb 3, 2024](https://github.com/end-4/dots-hyprland/commit/846bc72dd8f7f2309506711df16e0a7944e7ecc1) | ok |
 
 ## THIS AIN'T UPSTREAM THOO
 ![image](https://github.com/lash0000/end-4-dot/assets/38674978/9093cee5-1b77-489d-b205-21cbfb3990f9)
