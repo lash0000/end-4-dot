@@ -17,7 +17,7 @@ For now, I don't have the following:
 | Workspace 2.0 | [Jan 28, 2024](https://github.com/end-4/dots-hyprland/pull/209) | yay |
 | Notification 2.0 | [Feb 3, 2024](https://github.com/end-4/dots-hyprland/commit/846bc72dd8f7f2309506711df16e0a7944e7ecc1) | ok |
 | Music Widget 2.0 | [Feb 7, 2024](https://github.com/end-4/dots-hyprland/commit/0e36b9126cd9edc599bb2d360e9ff1a8643b1183) | yay |
-| Change to Main Branch | finally | yay |
+| Change to Main Branch | [Feb 16, 2024](https://github.com/end-4/dots-hyprland/pull/262) | yay |
 
 ## THIS AIN'T UPSTREAM THOO
 ![image](https://github.com/lash0000/end-4-dot/assets/38674978/9093cee5-1b77-489d-b205-21cbfb3990f9)
